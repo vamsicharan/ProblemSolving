@@ -1,25 +1,14 @@
 class Solution:
     def findRelativeRanks(self, score: List[int]) -> List[str]:
-        res = {}
+        score_sort = sorted(score, reverse = True)
+        fin = []
         for i in range(len(score)):
-            count = 0
-            for j in range(len(score)):
-                if score[i] < score[j] and i!=j:
-                    count +=1
-                res[score[i]] = count+1
-
-        result = []
-        for key,value in res.items():
-            if value == 1:
-                result.append("Gold Medal")
-            elif value == 2:
-                result.append("Silver Medal")
-            elif value == 3:
-                result.append("Bronze Medal")
+            if score[i] == score_sort[0]:
+                fin.append("Gold Medal")
+            elif score[i] == score_sort[1]:
+                fin.append("Silver Medal")
+            elif score[i] == score_sort[2]:
+                fin.append("Bronze Medal")
             else:
-                result.append(str(value)) 
-        return result                   
-
-
-
-        
+                fin.append(str(score_sort.index(score[i]) + 1))
+        return fin
