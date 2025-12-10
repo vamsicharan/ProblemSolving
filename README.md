@@ -15,14 +15,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/vamsicharan/ProblemSolving/tree/master/0242-valid-anagram) |
+| [0506-relative-ranks](https://github.com/vamsicharan/ProblemSolving/tree/master/0506-relative-ranks) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vamsicharan/ProblemSolving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vamsicharan/ProblemSolving/tree/master/0001-two-sum) |
+| [0506-relative-ranks](https://github.com/vamsicharan/ProblemSolving/tree/master/0506-relative-ranks) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vamsicharan/ProblemSolving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vamsicharan/ProblemSolving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/vamsicharan/ProblemSolving/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
