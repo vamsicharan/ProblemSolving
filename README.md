@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vamsicharan/ProblemSolving/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/vamsicharan/ProblemSolving/tree/master/0242-valid-anagram) |
 | [0506-relative-ranks](https://github.com/vamsicharan/ProblemSolving/tree/master/0506-relative-ranks) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vamsicharan/ProblemSolving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vamsicharan/ProblemSolving/tree/master/0001-two-sum) |
+| [0075-sort-colors](https://github.com/vamsicharan/ProblemSolving/tree/master/0075-sort-colors) |
 | [0506-relative-ranks](https://github.com/vamsicharan/ProblemSolving/tree/master/0506-relative-ranks) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vamsicharan/ProblemSolving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/vamsicharan/ProblemSolving/tree/master/0506-relative-ranks) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vamsicharan/ProblemSolving/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
