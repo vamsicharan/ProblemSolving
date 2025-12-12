@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vamsicharan/ProblemSolving/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/vamsicharan/ProblemSolving/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/vamsicharan/ProblemSolving/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vamsicharan/ProblemSolving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vamsicharan/ProblemSolving/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/vamsicharan/ProblemSolving/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/vamsicharan/ProblemSolving/tree/master/0242-valid-anagram) |
 | [0506-relative-ranks](https://github.com/vamsicharan/ProblemSolving/tree/master/0506-relative-ranks) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vamsicharan/ProblemSolving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -23,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vamsicharan/ProblemSolving/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/vamsicharan/ProblemSolving/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/vamsicharan/ProblemSolving/tree/master/0169-majority-element) |
 | [0506-relative-ranks](https://github.com/vamsicharan/ProblemSolving/tree/master/0506-relative-ranks) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vamsicharan/ProblemSolving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vamsicharan/ProblemSolving/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/vamsicharan/ProblemSolving/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
 |  |
@@ -37,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vamsicharan/ProblemSolving/tree/master/0075-sort-colors) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vamsicharan/ProblemSolving/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
